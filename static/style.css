@@ -1,0 +1,48 @@
+#zyre_nodes {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 45%;
+    float: left;
+    margin-right: 20px;
+}
+
+#zyre_nodes td, #zyre_nodes th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#zyre_nodes tr:nth-child(even){background-color: #f2f2f2;}
+
+#zyre_nodes tr:hover {background-color: #ddd;}
+
+#zyre_nodes th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+#zyre_groups {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 45%;
+    float: left;
+}
+
+#zyre_groups td, #zyre_groups th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#zyre_groups tr:nth-child(even){background-color: #f2f2f2;}
+
+#zyre_groups tr:hover {background-color: #ddd;}
+
+#zyre_groups th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0F17B4;
+    color: white;
+}

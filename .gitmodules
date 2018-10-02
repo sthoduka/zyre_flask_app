@@ -1,0 +1,3 @@
+[submodule "ropod_common"]
+	path = ropod_common
+	url = https://github.com/ropod-project/ropod_common.git
